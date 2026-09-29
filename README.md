@@ -1,11 +1,8 @@
-# Die Geschichte des Webs – in 90 Sekunden
+# Showcases von meinebetriebsseite.de
 
-Showcase von meinebetriebsseite.de: ein animierter Film aus reinem Code (HTML, CSS, JavaScript – ohne Video, ohne Bilder), der von ARPANET 1969 bis heute durch die Geschichte der Websites führt. Darunter: interaktive Erklärung, wie eine Website gebaut wird, Zeitstrahl, Nutzer-Diagramm, Statistiken für Betriebe und Quellen.
+Zwei Showcase-Seiten, jeweils eine einzige HTML-Datei ohne Bilder, Videos oder Bibliotheken:
 
-Alles steckt in `index.html`. Zum Veröffentlichen einfach die Datei hochladen (z. B. GitHub Pages, Netlify oder der eigene Webspace).
+- **`index.html` – Die Geschichte des Webs:** ein 90-Sekunden-Film aus Code von ARPANET 1969 bis heute, mit Zeitstrahl, Diagramm und Statistiken für Betriebe.
+- **`das-kleine-licht/index.html` – Das kleine Licht:** ein dreiminütiger Zeichentrickfilm mit live komponierter Musik, 3D-Laternenhimmel (WebGL2), Scrollfilm „Hinter den Kulissen“ und Figurenkarten.
 
-Einbetten auf einer anderen Seite:
-
-```html
-<iframe src="https://DEINE-URL/index.html" style="width:100%;height:100vh;border:0" allow="fullscreen"></iframe>
-```
+Zum Testen die jeweilige `index.html` doppelklicken. Zum Veröffentlichen einfach hochladen (GitHub Pages, Netlify oder eigener Webspace).

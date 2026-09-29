@@ -1,0 +1,23 @@
+DAS KLEINE LICHT – ein Zeichentrickfilm aus Code
+================================================
+
+Starten
+  index.html doppelklicken. Läuft in Chrome, Edge, Firefox und Safari,
+  auch offline (dann mit Ersatzschriften).
+
+Film
+  Auf "Film mit Ton abspielen" klicken. Dauer 3:00, 10 Kapitel.
+  Tasten (wenn der Player angeklickt ist):
+    Leertaste = Pause/Weiter   Pfeil links/rechts = 5 s   M = Ton   F = Vollbild
+
+Was drin ist
+  - Hero: 3D-Laternenhimmel in WebGL2, folgt der Maus
+  - Film: 180 Sekunden Zeichentrick mit live komponierter Musik
+  - Scrollfilm "Hinter den Kulissen": die Filmebenen fliegen in 3D auseinander
+  - Figurenkarten mit 3D-Neigung, Botschaft mit aufsteigenden Laternen
+
+Einbetten auf der eigenen Seite
+  <iframe src="das-kleine-licht/index.html" style="width:100%;height:100vh;border:0"
+          allow="fullscreen; autoplay"></iframe>
+
+Keine Bilder, keine Videos, keine Audiodateien, keine Bibliotheken.
